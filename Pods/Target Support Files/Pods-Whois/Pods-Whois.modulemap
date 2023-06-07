@@ -1,0 +1,6 @@
+framework module Pods_Whois {
+  umbrella header "Pods-Whois-umbrella.h"
+
+  export *
+  module * { export * }
+}

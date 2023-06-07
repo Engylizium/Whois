@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - Kanna (5.0.0)
+  - SwiftPhoneNumberFormatter (1.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.2)
+  - Kanna (~> 5.0.0)
+  - SwiftPhoneNumberFormatter
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kanna
+    - SwiftPhoneNumberFormatter
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  Kanna: a32875df62975f8f4b871e933b4ea1a5c3b8be0f
+  SwiftPhoneNumberFormatter: 0cc91f4daa06dd606a9defb21048a75c36a771a2
+
+PODFILE CHECKSUM: 998cc60c891e2755d8d341eeee7c9dbecdf9dc59
+
+COCOAPODS: 1.8.3

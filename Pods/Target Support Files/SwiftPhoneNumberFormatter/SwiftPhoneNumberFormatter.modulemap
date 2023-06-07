@@ -1,0 +1,6 @@
+framework module SwiftPhoneNumberFormatter {
+  umbrella header "SwiftPhoneNumberFormatter-umbrella.h"
+
+  export *
+  module * { export * }
+}
